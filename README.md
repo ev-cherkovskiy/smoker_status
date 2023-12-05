@@ -31,11 +31,11 @@ AUC = 0.873
     6. Normalization
 ### Learning
     1. Logistic Regression
-    6. HistGBM Classifier
-    7. XGBM Classifier
-    8. AdaBoost Classifier
-    9. LightGBM Classifier
-    10. CatBoost Classifier
-    12. Ensembles
-    13. Cross-Validation
-    14. Hyperparameter optimization
+    2. HistGBM Classifier
+    3. XGBM Classifier
+    4. AdaBoost Classifier
+    5. LightGBM Classifier
+    6. CatBoost Classifier
+    7. Ensembles
+    8. Cross-Validation
+    9. Hyperparameter optimization
